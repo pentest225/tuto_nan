@@ -23,4 +23,5 @@ urlpatterns = [
 #je vois pas les path et les aplications
 #Les commendes
 # Etre a la meme positions que le manage.py 
-#Faire pyfreez
+#Faire pip install freezer
+
